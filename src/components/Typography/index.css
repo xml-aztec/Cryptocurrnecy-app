@@ -1,0 +1,26 @@
+.typography-sm {
+    font-size: 12px;
+    cursor: default;
+  }
+  
+  .typography-md {
+    font-size: 14px;
+    cursor: default;
+  }
+  
+  .typography-lg {
+    font-size: 16px;
+    cursor: default;
+  }
+  
+  p {
+    text-indent: 1.5em; 
+    cursor: default;
+    margin: 0; 
+  }
+  
+  .typography-sm,
+  .typography-md,
+  .typography-lg {
+    line-height: 1.6; 
+  }
